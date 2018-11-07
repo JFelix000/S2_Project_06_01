@@ -6,19 +6,24 @@
    Case Problem 1
    
    Star Dust Stories Design Styles
-   Author: 
-   Date:      
+   Author: Jose Felix
+   Date:   11.06.18
 
    Filename: sd_effects.css
 
 */
 
 /* HTML Styles */
-
-
+html {
+    background: url(sd_back1.png) fixed;
+    background-size: 100%;
+}
 
 /* Body Styles */
-
+body {
+    background: url(sd_back2.png);
+    background-image: radial-gradient(circle at closest-corner 40%, 70%);
+}
 
 
 
